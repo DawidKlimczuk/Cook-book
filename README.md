@@ -29,7 +29,7 @@ Możesz edytować swoją listę w każdej chwili.
 | Rola       | Uprawnienia |
 |------------|-------------|
 | Gość       | Przeglądanie i sortowanie przepisów, rejestracja, logowanie |
-| Użytkownik | Pełny dostęp: dodawanie, ocenianie, ulubione, spichlerz, losowanie przepisu |
+| Użytkownik | Pełny dostęp: dodawanie, ocenianie, ulubione, spiżarnia, losowanie przepisu |
 
 ---
 🧰 Technologie (przykładowe stacki),
@@ -42,4 +42,4 @@ Hosting: Xampp
 ---
 
 🚀 Uruchomienie projektu lokalnie,
-localhost:3066
+localhost:3306
