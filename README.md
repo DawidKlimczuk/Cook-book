@@ -8,20 +8,20 @@ Cook-Book to interaktywna aplikacja webowa dla miłośników gotowania. Pozwala 
 🔍 Przeglądanie przepisów,
 🔃 Sortowanie przepisów (nazwa, ocena, najnowsze, popularność),
 👤 Rejestracja i logowanie,
-🎲 Funkcja Zaskocz mnie! (losowy przepis),
+🎲 Funkcja Zaskocz mnie! (losowy przepis)
 
 🔐 Tylko dla zalogowanych użytkowników:,
 ➕ Dodawanie własnych przepisów,
 ⭐ Ocenianie przepisów,
 💖 Dodawanie do ulubionych,
-📦 Mój Spiżarnia – wpisz, co masz w kuchni, a system pokaże przepisy, które możesz zrobić,
+📦 Moja Spiżarnia – wpisz, co masz w kuchni, a system pokaże przepisy, które możesz zrobić
 
 ---
 
-🧂 Mój Spiżarnia– jak to działa?,
+🧂 Moja Spiżarnia– jak to działa?,
 Użytkownik wpisuje dostępne składniki (np. "mąka", "jajka", "mleko").,
 System filtruje bazę przepisów i pokazuje te, które można wykonać tylko z dostępnych produktów.,
-Możesz edytować swoją listę w każdej chwili.,
+Możesz edytować swoją listę w każdej chwili.
 
 ---
 
@@ -32,14 +32,12 @@ Możesz edytować swoją listę w każdej chwili.,
 | Użytkownik | Pełny dostęp: dodawanie, ocenianie, ulubione, spichlerz, losowanie przepisu |
 
 ---
-
 🧰 Technologie (przykładowe stacki),
-To pole wypełnij zgodnie z tym, czego używasz w projekcie.
 
-Frontend: HTML, CSS, JavaScript,
-Backend: PHP,
-Baza danych: Xampp / MySQL,
-Hosting: Xampp,
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Baza danych: Xampp / MySQL
+Hosting: Xampp
 
 ---
 
