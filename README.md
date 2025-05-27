@@ -46,4 +46,4 @@ Hosting: Xampp
 localhost:3306
 
 ***
-**Przed uruchomieniem w folderze cook-book trzeba utworzyc folder uploads, w tym folderze folder recipes aby strona mogla przechowywac tam grafiki przepisów**
+**Przed uruchomieniem w folderze cook-book trzeba utworzyc folder uploads, w tym folderze folder recipes aby strona mogla przechowywac tam grafiki przepisów** 
